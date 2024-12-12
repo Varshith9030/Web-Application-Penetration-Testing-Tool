@@ -62,8 +62,8 @@ You may also need **Google Chrome** and **ChromeDriver** installed for Selenium 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Varshith9030/web-application-penetration-testing-tool.git
-   cd web-application-penetration-testing-tool
+   git clone https://github.com/Varshith9030/Web-Application-Penetration-Testing-Tool.git
+   cd Web-Application-Penetration-Testing-Tool
    ```
 
 2. Install the required dependencies:
